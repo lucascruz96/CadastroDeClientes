@@ -1,0 +1,30 @@
+﻿[
+  {
+    "Codigo": 1,
+    "Nome": "Empresa BH",
+    "Endereco": {
+      "Logradouro": "Avenida do Contorno",
+      "Numero": 6081,
+      "Complemento": "Loja A",
+      "Bairro": "São Pedro",
+      "Cidade": "Belo Horizonte",
+      "Uf": "MG",
+      "Cep": "30110-039"
+    },
+    "Telefones": [ "(31) 35860437" ]
+  },
+  {
+    "Codigo": 2,
+    "Nome": "Empresa SP",
+    "Endereco": {
+      "Logradouro": "Rua Augusta",
+      "Numero": 2670,
+      "Complemento": "",
+      "Bairro": "Jardim Paulista",
+      "Cidade": "São Paulo",
+      "Uf": "SP",
+      "Cep": "01412-100"
+    },
+    "Telefones": [ "(11) 30629033" ]
+  }
+]
